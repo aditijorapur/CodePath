@@ -18,7 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= ![](https://imgur.com/a/UHERRQc.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![AditiJorapurWalkThrough](https://github.com/aditijorapur/CodePath/assets/53666126/a75409b6-c473-4320-a3c0-d0034d693272)
+
+<img src= ![AditiJorapurWalkThrough](https://github.com/aditijorapur/CodePath/assets/53666126/a75409b6-c473-4320-a3c0-d0034d693272) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
