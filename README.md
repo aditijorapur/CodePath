@@ -5,7 +5,7 @@ Submitted by: **Aditi Jorapur**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **2** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -31,6 +31,13 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+
+Instagram: direct messaging, explore page to discover new accounts
+Tik Tok: For you page- customized page with tiktoks for the user, thousands of effects and filters
+Snapchat: direct messaging through pictures, memories feature that stores pictures
+
+My App:
+I want to build a recipe suggestions/creater app that lets users enter the ingredients they have at home or have purchased and the app will create and suggest recipes based on the ingredients given. Some features this app will have: a tab that allows users to add ingredients and then they can press a button which generates recipes, a tab to input dietary restrictions, a tab to input budget, and a tab to plan recipes for the week.
 
 ## Notes
 
